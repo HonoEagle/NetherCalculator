@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FFCC00)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-555)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2ea44f)
 
 Convertisseur de coordonnées Minecraft entre l'Overworld et le Nether avec une interface graphique simple en Python (`tkinter`).
@@ -70,3 +70,5 @@ Les PR sont bienvenues. Ouvre une issue pour proposer une amélioration ou signa
 
 ## Licence
 Ce projet est sous licence MIT. Voir `LICENSE`.
+
+
